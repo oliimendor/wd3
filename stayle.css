@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Rubik", sans-serif;
+}
+.container{
+    padding: 0 130px;
+}
+.header{
+    width: 1440px;
+    border: 2px solid red;
+    margin: 0 auto;
+    
+}
+.nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 75px 130px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.33px;
+    text-align: left;
+}
+.nav ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.btn{
+    width: 120px;
+    height: 50.41px;
+    border-radius: 5px;
+    background-color: rgba(255, 122, 80, 1);
+    color: white;
+    text-align: center;
+    align-content: center;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+    border: none;
+}
+.btn:hover{
+    color: rgba(255, 122, 80, 1);
+    background-color: white;
+    box-shadow: 22px -15px 10px 0px rgba(255, 104, 56, 0.19);
+}
+.nav ul li:hover{
+    color: rgba(255, 122, 80, 1);
+    transition: all 1s;
+}
+.content{
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.content-text h1{
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 78.21px;
+    text-align: left;
+
+}
+.span{
+    color: rgba(255, 122, 80, 1);
+}
+
+.content-text p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 23px;
+    margin-bottom: 45px;
+}
+.curyer{
+    width: 721px;
+    height: 681px;
+
+}
+.foodv2{
+    width: 626px;
+    height: 723px;
+    gap: 30px
+    ;
+    
+}
+.food{
+
+    
+    
+}
+.we{
+    width: 449px;
+    height: 103px;
+    margin-left: 855px;
+
+}
+.p{
+    margin-left: 855px;
+}
+.r{
+    width: 176px;
+    height: 58px;
+    background-color:  #FF7A50;
+    ;
+    box-shadow:  0px 22px 40px 0px #FF683830;
+    ;
+    border-radius: 15px;
+text-align: center;
+background-color: #FF7A50;
+margin-left: 885px;
+color: azure;
+margin-bottom: 200px;
+
+}
+.piza{
+    display: flex;
+    margin-bottom: 200px;
+}
+.sp{
+    color: orange;
+
+}
+.e{
+    width: 360px;
+    height: 30px;
+}
+.q{
+    width: 361px;
+    height: 299px;
+}
+.b{
+    border-radius: 15px;
+    background-color: #FF7A50;
+    width: 100px;
+    height: 45px;
+    margin-left: 200px;
+}
+.borger{
+    width: 616.74px;
+    height: 480.59px;
+    border-radius: 30px;
+}
+.i{
+    color: #FF7A50;
+}
+.phon{
+    display: flex;
+    
+}
+.class{
+    
+}
+.f{
+    text-align: center;
+}
